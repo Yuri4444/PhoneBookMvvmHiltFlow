@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">PhoneBookMvvmHiltFlow</string>
+<string name="search">Search</string>
+<string name="sort">Sort</string>
+<string name="sort_by_name">Sort by name</string>
+<string name="sort_by_data_created">Sort by data created</string>
+<string name="hide_completed">Hide completed</string>
+<string name="delete_all_completed">Delete all completed</string>
+</resources>
